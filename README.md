@@ -8,34 +8,76 @@
 
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/> About Me
+## 🧑‍💻 About Me
 
-```javascript
-const pratyush = {
-    role: "Full Stack Software Engineer",
-    location: "Lucknow, India",
-    passions: [
-        "Building automation systems",
-        "Designing scalable architectures",
-        "Creating efficient workflows",
-        "Solving complex problems"
-    ],
-    currentFocus: "System Design & Automation",
-    workingOn: "Building intelligent automation tools",
-    learning: ["Microservices", "Cloud Architecture", "DevOps"],
-    askMeAbout: ["Web Development", "System Design", "Automation", "APIs"]
-};
-```
+<div align="center">
+  
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 👨‍🎓 Who I Am
+
+<img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" align="right"/>
+
+I'm a **Full Stack Software Engineer** based in **Lucknow, India**, passionate about building robust, scalable systems that solve real-world problems. I specialize in creating automation tools and designing architectures that stand the test of time.
 
 <br/>
 
-</div>
+### 🎯 What Drives Me
+
+<img src="https://img.icons8.com/3d-fluency/94/settings.png" width="35"/> Building intelligent automation systems
+
+<img src="https://img.icons8.com/3d-fluency/94/module.png" width="35"/> Designing scalable architectures
+
+<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="35"/> Creating efficient workflows
+
+<img src="https://img.icons8.com/3d-fluency/94/idea.png" width="35"/> Solving complex technical challenges
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+<img src="https://img.icons8.com/3d-fluency/94/laptop.png" width="50"/> System Design & Automation
+
+<br/>
+
+### 🚀 What I'm Working On
+
+Building intelligent automation tools that streamline workflows and boost productivity
+
+<br/>
+
+### 📚 Learning Journey
+
+<img src="https://img.icons8.com/3d-fluency/50/server.png" width="25"/> Microservices Architecture
+
+<img src="https://img.icons8.com/3d-fluency/50/cloud.png" width="25"/> Cloud Infrastructure (AWS, GCP)
+
+<img src="https://img.icons8.com/3d-fluency/50/infinity.png" width="25"/> Advanced DevOps Practices
+
+<br/>
+
+### 💬 Ask Me About
+
+<img src="https://img.icons8.com/3d-fluency/50/domain.png" width="25"/> Web Development (Full Stack)
+
+<img src="https://img.icons8.com/3d-fluency/50/blueprint.png" width="25"/> System Design & Architecture
+
+<img src="https://img.icons8.com/3d-fluency/50/bot.png" width="25"/> Automation & Scripting
+
+<img src="https://img.icons8.com/3d-fluency/50/api.png" width="25"/> RESTful & GraphQL APIs
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## <img src="https://cdn-icons-png.freepik.com/512/13007/13007410.png?ga=GA1.1.375737319.1725045170" width="35"/> Tech Stack
+## <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="35"/> Tech Stack
 
 ### Languages
 <p align="left">
@@ -69,7 +111,7 @@ const pratyush = {
 
 <br/>
 
-## <img src="https://cdn-icons-png.freepik.com/512/646/646249.png?ga=GA1.1.375737319.1725045170" width="35"/> GitHub Analytics
+## <img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="35"/> GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinetic-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF"/>
@@ -86,81 +128,109 @@ const pratyush = {
 
 <br/>
 
-## <img src="https://cdn-icons-png.freepik.com/512/17298/17298703.png?ga=GA1.1.375737319.1725045170" width="35"/> Featured Projects
+## <img src="https://img.icons8.com/3d-fluency/94/star.png" width="35"/> Featured Projects
 
 <div align="center">
 
+### 🌟 Flagship Project
+
 <table>
   <tr>
-    <td width="50%" align="center">
-      <br/>
-      <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
-      <h3>Kinetic</h3>
-      <p><em>Modern web application with cutting-edge features</em></p>
-      <br/>
+    <td align="center" style="border: 2px solid #3DAFF7; border-radius: 10px; padding: 20px;">
       <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+        <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="80"/>
       </a>
-      <a href="https://github.com/kinetic-sudo/kinetic" target="_blank">
-        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td width="50%" align="center">
+      <h2>⚡ Kinetic</h2>
+      <p align="center">
+        <img src="https://img.shields.io/badge/⭐_Featured-FF5722?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+      </p>
+      <p><strong><em>A cutting-edge modern web application showcasing advanced React patterns, TypeScript best practices, and stunning UI/UX design</em></strong></p>
       <br/>
-      <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
+      <p align="left">
+        <strong>✨ Key Features:</strong><br/>
+        • Responsive design with seamless animations<br/>
+        • Advanced state management & API integration<br/>
+        • Performance-optimized with modern tooling<br/>
+        • Clean, maintainable TypeScript codebase
+      </p>
+      <br/>
+      <p align="center">
+        <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo" height="35"/>
+        </a>
+        <a href="https://github.com/kinetic-sudo/kinetic" target="_blank">
+          <img src="https://img.shields.io/badge/📂_VIEW_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Code" height="35"/>
+        </a>
+      </p>
+      <br/>
+      <p align="center">
+        <strong>Tech Stack:</strong><br/><br/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📱 Other Projects
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
+        <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="50"/>
+      </a>
       <h3>Brainwave</h3>
       <p><em>AI-powered intelligent platform</em></p>
       <br/>
       <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+        <img src="https://img.shields.io/badge/🌐_Demo-3DAFF7?style=for-the-badge" alt="Demo"/>
       </a>
       <a href="https://github.com/kinetic-sudo/Brainwave" target="_blank">
-        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+        <img src="https://img.shields.io/badge/💻_Code-0D1117?style=for-the-badge" alt="Code"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
-      <h3>Apple Website Clone</h3>
-      <p><em>Pixel-perfect recreation with 3D animations</em></p>
+    <td width="33%" align="center">
+      <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
+        <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="50"/>
+      </a>
+      <h3>Apple Clone</h3>
+      <p><em>3D animations & interactions</em></p>
       <br/>
       <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+        <img src="https://img.shields.io/badge/🌐_Demo-3DAFF7?style=for-the-badge" alt="Demo"/>
       </a>
       <a href="https://github.com/kinetic-sudo/apple_website" target="_blank">
-        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+        <img src="https://img.shields.io/badge/💻_Code-0D1117?style=for-the-badge" alt="Code"/>
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
     </td>
-    <td width="50%" align="center">
-      <br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="60"/>
+    <td width="33%" align="center">
+      <a href="https://gta-vi-tau.vercel.app/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="50"/>
+      </a>
       <h3>GTA-VI Landing</h3>
-      <p><em>Immersive game landing page experience</em></p>
+      <p><em>Immersive gaming experience</em></p>
       <br/>
       <a href="https://gta-vi-tau.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+        <img src="https://img.shields.io/badge/🌐_Demo-3DAFF7?style=for-the-badge" alt="Demo"/>
       </a>
       <a href="https://github.com/kinetic-sudo/Gta-vi" target="_blank">
-        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+        <img src="https://img.shields.io/badge/💻_Code-0D1117?style=for-the-badge" alt="Code"/>
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
     </td>
   </tr>
 </table>
