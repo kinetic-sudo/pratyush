@@ -8,51 +8,76 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> About Me
+## 🧑‍💻 About Me
 
-<table>
+<div align="center">
+  
+<table border="0">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       
-**Who I Am**
+### 👨‍🎓 Who I Am
 
-I'm a **Full Stack Software Engineer** based in Lucknow, India, passionate about building robust, scalable systems that solve real-world problems. I specialize in creating automation tools and designing architectures that stand the test of time.
+<img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" align="right"/>
 
-**What Drives Me**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" /> Building intelligent automation systems
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="20" /> Designing scalable architectures
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="20" /> Creating efficient workflows
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" /> Solving complex technical challenges
+I'm a **Full Stack Software Engineer** based in **Lucknow, India**, passionate about building robust, scalable systems that solve real-world problems. I specialize in creating automation tools and designing architectures that stand the test of time.
+
+<br/>
+
+### 🎯 What Drives Me
+
+<img src="https://img.icons8.com/3d-fluency/94/settings.png" width="35"/> Building intelligent automation systems
+
+<img src="https://img.icons8.com/3d-fluency/94/module.png" width="35"/> Designing scalable architectures
+
+<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="35"/> Creating efficient workflows
+
+<img src="https://img.icons8.com/3d-fluency/94/idea.png" width="35"/> Solving complex technical challenges
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Current Focus**
+### 🎯 Current Focus
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> System Design & Automation
+<img src="https://img.icons8.com/3d-fluency/94/laptop.png" width="50"/> System Design & Automation
 
-**What I'm Working On**
+<br/>
+
+### 🚀 What I'm Working On
 
 Building intelligent automation tools that streamline workflows and boost productivity
 
-**Learning Journey**
-- Microservices Architecture
-- Cloud Infrastructure (AWS, GCP)
-- Advanced DevOps Practices
+<br/>
 
-**Ask Me About**
-- Web Development (Full Stack)
-- System Design & Architecture
-- Automation & Scripting
-- RESTful & GraphQL APIs
+### 📚 Learning Journey
+
+<img src="https://img.icons8.com/3d-fluency/50/server.png" width="25"/> Microservices Architecture
+
+<img src="https://img.icons8.com/3d-fluency/50/cloud.png" width="25"/> Cloud Infrastructure (AWS, GCP)
+
+<img src="https://img.icons8.com/3d-fluency/50/infinity.png" width="25"/> Advanced DevOps Practices
+
+<br/>
+
+### 💬 Ask Me About
+
+<img src="https://img.icons8.com/3d-fluency/50/domain.png" width="25"/> Web Development (Full Stack)
+
+<img src="https://img.icons8.com/3d-fluency/50/blueprint.png" width="25"/> System Design & Architecture
+
+<img src="https://img.icons8.com/3d-fluency/50/bot.png" width="25"/> Automation & Scripting
+
+<img src="https://img.icons8.com/3d-fluency/50/api.png" width="25"/> RESTful & GraphQL APIs
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Tech Stack
+## <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="35"/> Tech Stack
 
 ### Languages
 <p align="left">
@@ -86,7 +111,7 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> GitHub Analytics
+## <img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="35"/> GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinetic-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF"/>
@@ -103,77 +128,81 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" /> Featured Projects
+## <img src="https://img.icons8.com/3d-fluency/94/star.png" width="35"/> Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Kinetic</h3>
-      <p align="center">
-        <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=kinetic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF" alt="Kinetic"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-3DAFF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/kinetic-sudo/kinetic" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <br/>
+      <img src="https://img.icons8.com/3d-fluency/94/project.png" width="60"/>
+      <h3>Kinetic</h3>
+      <p><em>Modern web application with cutting-edge features</em></p>
+      <br/>
+      <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://github.com/kinetic-sudo/kinetic" target="_blank">
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
-    <td width="50%">
-      <h3 align="center">Brainwave</h3>
-      <p align="center">
-        <a href="https://github.com/kinetic-sudo/Brainwave" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=Brainwave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF" alt="Brainwave"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-3DAFF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/kinetic-sudo/Brainwave" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <br/>
+      <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="60"/>
+      <h3>Brainwave</h3>
+      <p><em>AI-powered intelligent platform</em></p>
+      <br/>
+      <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://github.com/kinetic-sudo/Brainwave" target="_blank">
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Apple Website</h3>
-      <p align="center">
-        <a href="https://github.com/kinetic-sudo/apple_website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=apple_website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF" alt="Apple Website"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-3DAFF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/kinetic-sudo/apple_website" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <br/>
+      <img src="https://img.icons8.com/3d-fluency/94/apple-logo.png" width="60"/>
+      <h3>Apple Website Clone</h3>
+      <p><em>Pixel-perfect recreation with 3D animations</em></p>
+      <br/>
+      <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://github.com/kinetic-sudo/apple_website" target="_blank">
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
     </td>
-    <td width="50%">
-      <h3 align="center">GTA-VI Landing</h3>
-      <p align="center">
-        <a href="https://github.com/kinetic-sudo/Gta-vi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=Gta-vi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF" alt="GTA-VI"/>
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://gta-vi-tau.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-3DAFF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/kinetic-sudo/Gta-vi" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <br/>
+      <img src="https://img.icons8.com/3d-fluency/94/controller.png" width="60"/>
+      <h3>GTA-VI Landing</h3>
+      <p><em>Immersive game landing page experience</em></p>
+      <br/>
+      <a href="https://gta-vi-tau.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://github.com/kinetic-sudo/Gta-vi" target="_blank">
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -182,35 +211,37 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> What I Do
+## <img src="https://img.icons8.com/3d-fluency/94/hammer.png" width="35"/> What I Do
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" alt="Construction" width="20" /> **System Architecture** - Designing scalable and maintainable systems
+<img src="https://img.icons8.com/3d-fluency/50/blueprint.png" width="25"/> **System Architecture** - Designing scalable and maintainable systems
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" /> **Automation** - Building tools that eliminate repetitive tasks
+<img src="https://img.icons8.com/3d-fluency/50/bot.png" width="25"/> **Automation** - Building tools that eliminate repetitive tasks
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="20" /> **Full Stack Development** - End-to-end application development
+<img src="https://img.icons8.com/3d-fluency/50/code.png" width="25"/> **Full Stack Development** - End-to-end application development
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="20" /> **Performance Optimization** - Making systems faster and more efficient
+<img src="https://img.icons8.com/3d-fluency/50/speed.png" width="25"/> **Performance Optimization** - Making systems faster and more efficient
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="20" /> **DevOps** - Implementing CI/CD pipelines and cloud infrastructure
+<img src="https://img.icons8.com/3d-fluency/50/infinity.png" width="25"/> **DevOps** - Implementing CI/CD pipelines and cloud infrastructure
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" /> **Problem Solving** - Turning complex challenges into elegant solutions
+<img src="https://img.icons8.com/3d-fluency/50/idea.png" width="25"/> **Problem Solving** - Turning complex challenges into elegant solutions
 
 <br clear="right"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Connect With Me
+<br/>
+
+## <img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="35"/> Connect With Me
 
 <p align="center">
   <a href="http://portfolio-liard-six-15.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:pratyushbhargava6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/pratyush-bhargava-588352167" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -222,7 +253,7 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <div align="center">
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Heart" width="20" /> Show some love by starring repositories you find interesting!
+### <img src="https://img.icons8.com/3d-fluency/50/like.png" width="25"/> Show some love by starring repositories you find interesting!
   
 ![Visitor Count](https://profile-counter.glitch.me/kinetic-sudo/count.svg)
 
