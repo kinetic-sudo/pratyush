@@ -69,7 +69,7 @@ const pratyush = {
 
 <br/>
 
-## <img src="	https://cdn-icons-png.freepik.com/512/646/646249.png?ga=GA1.1.375737319.1725045170" width="35"/> GitHub Analytics
+## <img src="https://cdn-icons-png.freepik.com/512/646/646249.png?ga=GA1.1.375737319.1725045170" width="35"/> GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinetic-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF"/>
