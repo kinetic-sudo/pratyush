@@ -35,7 +35,7 @@ const pratyush = {
 
 <br/>
 
-## <img src="[https://www.freepik.com/icon/layers_13007410#fromView=search&page=1&position=7&uuid=16bf9f20-0111-45ed-a7af-64b611fba6f1](https://cdn-icons-png.freepik.com/512/13007/13007410.png?ga=GA1.1.375737319.1725045170)" width="35"/> Tech Stack
+## <img src="https://cdn-icons-png.freepik.com/512/13007/13007410.png?ga=GA1.1.375737319.1725045170" width="35"/> Tech Stack
 
 ### Languages
 <p align="left">
@@ -94,7 +94,7 @@ const pratyush = {
   <tr>
     <td width="50%" align="center">
       <br/>
-      <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cN…mJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
+      <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       <h3>Kinetic</h3>
       <p><em>Modern web application with cutting-edge features</em></p>
       <br/>
@@ -111,7 +111,7 @@ const pratyush = {
     </td>
     <td width="50%" align="center">
       <br/>
-      <img src="[https://img.icons8.com/3d-fluency/94/brain.png](https://vercel.com/api/v0/deployments/dpl_GFL8M8cN…mJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe)" width="60"/>
+      <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       <h3>Brainwave</h3>
       <p><em>AI-powered intelligent platform</em></p>
       <br/>
@@ -147,7 +147,7 @@ const pratyush = {
     </td>
     <td width="50%" align="center">
       <br/>
-      <img src="[https://img.icons8.com/3d-fluency/94/controller.png](https://pt.wikipedia.org/wiki/Ficheiro:Rockstar_logo_for_tweets.png)" width="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="60"/>
       <h3>GTA-VI Landing</h3>
       <p><em>Immersive game landing page experience</em></p>
       <br/>
