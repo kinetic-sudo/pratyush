@@ -150,30 +150,7 @@
 <br/>
 
 
-## <img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="35"/> Connect With Me
 
-<p align="center">
-  <a href="http://portfolio-liard-six-15.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:pratyushbhargava6@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pratyush-bhargava-588352167" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  
-### <img src="https://img.icons8.com/3d-fluency/50/like.png" width="25"/> Show some love by starring repositories you find interesting!
-  
 ![Visitor Count](https://profile-counter.glitch.me/kinetic-sudo/count.svg)
 
 </div>
