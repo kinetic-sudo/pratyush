@@ -130,7 +130,7 @@ const pratyush = {
   <tr>
     <td width="50%" align="center">
       <br/>
-      <img src="[https://img.icons8.com/3d-fluency/94/apple-logo.png](https://vercel.com/api/v0/deployments/dpl_8nGxTNaA…mJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe)" width="60"/>
+      <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       <h3>Apple Website Clone</h3>
       <p><em>Pixel-perfect recreation with 3D animations</em></p>
       <br/>
